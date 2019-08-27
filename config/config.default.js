@@ -25,13 +25,13 @@ module.exports = appInfo => {
       // 单数据库信息配置
       client: {
         // host
-        host: '108.160.143.67',
+        host: '',
         // 端口号
-        port: '3306',
+        port: '',
         // 用户名
-        user: 'root',
+        user: '',
         // 密码
-        password: 'wj_021HOOP',
+        password: '',
         // 数据库名
         database: 'dlucky',
       },
@@ -47,8 +47,8 @@ module.exports = appInfo => {
       },
     },
     user:{
-      userName1: 'admin',
-      password1: '331751',
+      userName1: '',
+      password1: '',
     }
   };
 
